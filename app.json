@@ -1,5 +1,5 @@
 {
     "name": "Test123",
     "description": "Dude",
-    "addons": ["cleardb:ignite","newrelic:wayne","sendgrid:starter"]
+    "addons": ["cleardb:ignite"]
 }
